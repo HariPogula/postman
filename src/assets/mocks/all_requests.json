@@ -1,0 +1,33 @@
+[
+    {
+        "id":1,
+        "requestType":"get_all_emplooyes",
+        "requestTitle":"Get All Employees"
+    },
+    {
+        "id":2,
+        "requestType":"get_all_emplooyes_by_id",
+        "requestTitle":"Get All Employees By Id"
+    },
+    {
+        "id":3,
+        "requestType":"save_employee",
+        "requestTitle":"Save an Employee"
+    },
+    {
+        "id":4,
+        "requestType":"delete_employee",
+        "requestTitle":"Delete an Employee"
+    },
+    {
+        "id":5,
+        "requestType":"edit_employee_by_id",
+        "requestTitle":"Edit an Employee By Id"
+    },
+    {
+        "id":6,
+        "requestType":"delete_by_id",
+        "requestTitle":"Delete an Employee By Id"
+    }
+
+]

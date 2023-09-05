@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "Get All Employees---",
+    "type": "GET",
+    "body":null,
+    "url": "https://blog.angulartraining.com/fake-your-angular-backend-until-you-make-it-8d145f713e14",
+
+    "response": [
+      {
+        "key1": "Obj1-Value1",
+        "key2": "Obj1-Value-2"
+      },
+      {
+        "key1": "Obj2-Value1",
+        "key2": "Obj2-Value-2"
+      }
+    ],
+    "model": {
+      "key1": "string",
+      "key2": "int"
+    }
+  }
+]
